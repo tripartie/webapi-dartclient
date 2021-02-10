@@ -1,0 +1,14 @@
+name: 'tripartie_webapi_dartclient'
+version: '1.0.0'
+description: 'The Tripartie Web API allows you to easily create Transaction templates'
+authors:
+  - 'Tripartie <support@tripartie.com>'
+repository: 'https://github.com/tripartie/webapi-dartclient'
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  http: '>=0.12.0 <0.13.0'
+  intl: '^0.16.1'
+  meta: '^1.1.8'
+dev_dependencies:
+  test: '^1.3.0'
